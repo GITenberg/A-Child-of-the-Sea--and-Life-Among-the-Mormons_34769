@@ -1,0 +1,30 @@
+_repo: A-Child-of-the-Sea--and-Life-Among-the-Mormons_34769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Elizabeth Whitney
+    birthdate: 1844
+    deathdate: 1938
+    gutenberg_agent_id: '37209'
+    url: http://www.gutenberg.org/2009/agents/37209
+description: This is a autobiography of Elizabeth Whitney Williams who grew up mainly
+  in Beaver, Michigan. "Life among the Mormons" refers to a break off group of Mormons
+  who followed James Jesse Strang.
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Beaver Island (Mich.)'
+- !lcsh 'Mormons -- Michigan'
+- !lcsh 'Strang, James Jesse, 1813-1856'
+title: A Child of the Sea; and Life Among the Mormons
+url: http://www.gutenberg.org/ebooks/34769
